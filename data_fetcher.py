@@ -3,7 +3,7 @@ import time
 import requests
 import pandas as pd
 
-MAPBOX_TOKEN = "pk.eyJ1IjoiZGhlZXJhanByZWV0c2luZ2giLCJhIjoiY21qczlscXB2NDN4NjNlcXpndHEwZ2d1NiJ9.dANRFC6hDxykP_jARWNROw"
+MAPBOX_TOKEN = "your_token"
 
 ZOOM = 17.5
 WIDTH = 400
